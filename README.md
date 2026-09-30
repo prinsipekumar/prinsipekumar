@@ -7,7 +7,7 @@
 - 🎓 BCA graduate (CGPA: 9.05) with strong foundations in **computer science, web technologies, and database management**
 - 💻 Full‑stack developer specializing in the **MERN stack (MongoDB, Express, React, Node.js)**
 - 🚀 Experienced in building **scalable, secure, and responsive applications** with real‑world features like authentication, chat systems, and AI‑powered recommendations
-- 📚 Passionate about **problem‑solving** — actively practicing **on LeetCode** to sharpen algorithmic thinking
+- 📚 Passionate about **problem‑solving** — actively practicing on **LeetCode** to sharpen algorithmic thinking
 - 🌍 Open to relocation and flexible work environments
 
 I enjoy transforming ideas into interactive, user‑friendly applications that combine clean design with robust functionality. My goal is to grow as a software engineer while contributing to impactful projects.
@@ -45,6 +45,8 @@ I enjoy transforming ideas into interactive, user‑friendly applications that c
 - **[BookLib](https://booklib-m5en.onrender.com)** – 📚 Book sharing platform with **JWT authentication, Zustand state management, and Tailwind CSS styling**.
 
 - **[Portfolio](https://prinsipekumar.is-a.dev)** – 🌐 Personal portfolio showcasing projects, skills, and a contact form. Deployed on **Vercel**.
+
+- **[DigiDiary](https://digidiary-iia5.onrender.com)** – 📓 A modern digital journaling application that allows users to securely create, manage, and search personal diary entries. Built with **React, Express, and MongoDB — featuring JWT authentication, and responsive Tailwind UI**. Deployed on **Render**.
 
 - **[Code‑Editor](https://prinsipekumar.github.io/code-editor)** – ✍️ Web‑based editor to write and preview **HTML, CSS, and JavaScript** in real time.
 
